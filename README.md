@@ -21,7 +21,7 @@ East performs highest in July at $26630.73 and lowest in November at $11290.07.
 The North Region consistently outperformed all other regions.
 
 ### Customer Segmentation: 
-Groups customers based on spending habits and purchasing frequency.
+Grouping customers based on spending habits and purchasing frequency.
 
 Cluster 0: High spenders with high frequency — potential for loyalty programs.
 
